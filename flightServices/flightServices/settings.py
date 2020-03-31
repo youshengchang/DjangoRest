@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'flightdb',
         'USER':'root',
-        'PASSWORD':'!Zenysc1947'
+        'PASSWORD':''
     }
 }
 
